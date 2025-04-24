@@ -1,0 +1,17 @@
+{
+    "id":  1,
+    "name": "john dow",
+    "email": "sample@grc.com",
+    "phone": "+1-123-456-789",
+    "address":{
+        "street": "123 main st",
+        "city": "caloocan",
+        "state": "na",
+        "zip": "12345"
+    },
+    "company": {
+        "name": "tech pollutions",
+        "position": "software technician",
+        "department": "development"
+    }
+}
